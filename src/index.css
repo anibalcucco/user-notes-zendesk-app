@@ -1,0 +1,38 @@
+.loader {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.empty-state {
+  color: gray;
+}
+
+textarea {
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+li {
+  padding: 10px;
+  overflow: auto;
+}
+
+li:hover {
+  background: #eee;
+  cursor: pointer;
+}

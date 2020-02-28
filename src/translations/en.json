@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "User Notes",
+    "short_description": "Store and present notes for Zendesk user",
+    "long_description": "Store and present notes for Zendesk user",
+    "installation_instructions": "Configure the following app settings, then click Install:...",
+    "title": "User Notes"
+  },
+  "notes": {
+    "title": "Notes",
+    "delete": "Delete",
+    "empty": "There are no notes for this user"
+  },
+  "installation": {
+    "title": "Installation",
+    "description": "User notes are saved using Sunshine data structure. Follow <a href='https://develop.zendesk.com/hc/en-us/articles/360002127707' target='_blank'>these article</a> to enable Sunshine in your account. After that, click the button below to create the necessary structure",
+    "link": "Create data structure",
+    "error": "There was an error creating the Sunshine schema. Please check the article above to be sure Sunshine is ready on your account and try again."
+  }
+}
