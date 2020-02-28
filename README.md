@@ -23,4 +23,4 @@ The user notes are saved using Sunshine data structure. Follow [these article](h
 
 Add notes for the current ticket requester and every time you open a ticket from that requester you'll see the notes.
 
-![notes](https://p84.f1.n0.cdn.getcloudapp.com/items/NQuZgX0x/image.png?v=f731803f6dfb39bf57ac13899b040cc7)
+![notes](https://monosnap.com/file/s68FGuh0YkYw3ZFzmWes2eSx6vc12J.png)
